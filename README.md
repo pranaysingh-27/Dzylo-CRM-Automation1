@@ -12,3 +12,5 @@ Improved data accuracy and sales team efficiency
 Enhanced lead tracking and pipeline visibility
 
 Tech Stack: Google Sheets API • Dzylo CRM API • Make.com / Automation Tools • Webhooks • CRM Automation • Email Automation
+
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/1c8f8dfa-7916-4301-9548-6a9a40db0aa0" />
